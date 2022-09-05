@@ -38,8 +38,8 @@
      }, 
      "UPSTREAM_REPO": { 
        "description": "لاتـغيره! ", 
-       "value": "https://github.com/pqnzbmmwQ92/sbb_b", 
-       "required": false 
+       "القيمة" :  "git@github.com:RHHPP/Sourc-Meozk.git" ،
+       "مطلوب" :  خطأ 
      } 
    }, 
    "addons": [{ 
